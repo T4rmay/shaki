@@ -1,2 +1,0 @@
-# shaki
-Turi Kalar
